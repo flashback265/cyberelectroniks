@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybergod Electronics Repair & Software Solutions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Cybergod</div>
+        <nav>
+            <ul>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Welcome to Cybergod</h1>
+        <p>Your trusted partner for electronics repair and software solutions</p>
+    </section>
+
+    <section id="services" class="services">
+        <h2>Our Services</h2>
+        <div class="service-item">
+            <h3>Electronics Repair</h3>
+            <p>Expert repair services for all your electronic devices.</p>
+        </div>
+        <div class="service-item">
+            <h3>Software Solutions</h3>
+            <p>Custom software development to meet your business needs.</p>
+        </div>
+        <div class="service-item">
+            <h3>IT Consulting</h3>
+            <p>Professional advice to optimize your IT infrastructure.</p>
+        </div>
+    </section>
+
+    <section id="about" class="about">
+        <h2>About Us</h2>
+        <p>Cybergod has been providing top-notch electronics repair and software solutions for over a decade. Our team of experts is dedicated to delivering high-quality services to our clients.</p>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2>Contact Us</h2>
+        <form id="contact-form">
+            <input type="text" id="name" placeholder="Your Name" required>
+            <input type="email" id="email" placeholder="Your Email" required>
+            <textarea id="message" placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Cybergod Electronics Repair & Software Solutions</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
