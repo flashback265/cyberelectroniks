@@ -1,2 +1,0 @@
-# CYbergod
-my website respository 
