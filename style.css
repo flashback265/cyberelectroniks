@@ -242,12 +242,7 @@ ul li a:hover{
     max-width: 1536px;
   }
 }
-/* xs */ 
-@media(min-width:475px) {
-  .container{
-    max-width: 475px;
-  }
-}
+
  
 .micon{
   width: 100px; 
